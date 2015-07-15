@@ -1,0 +1,434 @@
+
+<h3 class="section-title padding-right">New Products in Stock</h3>
+<div class="itemslider-wrapper new-itemslider-wrapper">
+
+	<div class="nav-wrapper gen-slider-arrows1 gen-slider-arrows1-pos-top-right"></div>
+
+    <div class="itemslider itemslider-horizontal itemslider-responsive">
+        <ul class="slides products-grid centered">
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone4.html?___SID=U" title="Simple Phone" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Simple Phone" />
+                            
+                                                                                                                    
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/29/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/29/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone4.html?___SID=U" title="Simple Phone">Simple Phone</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-29-new">
+                                            <span class="price">$699.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone1.html?___SID=U" title="Brand New Phone" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Brand New Phone" />
+                            
+                                                            <img class="alt-img" src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Brand New Phone" />                                                        
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/21/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/21/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone1.html?___SID=U" title="Brand New Phone">Brand New Phone</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-21-new">
+                                            <span class="price">$800.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone9.html?___SID=U" title="Sample image label" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Sample image label" />
+                            
+                                                                                                                    
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/34/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/34/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone9.html?___SID=U" title="Groupped Product">Groupped Product</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                <div class="price-box">
+            <p class="minimal-price">
+                <span class="price-label">Starting at:</span>
+                                                    <span class="price" id="product-minimal-price-34-new">
+                    $124.00                </span>
+                            </p>
+        </div>
+                        <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone6.html?___SID=U" title="Phone Navy Color" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Phone Navy Color" />
+                            
+                                                                                                                    
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/31/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/31/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone6.html?___SID=U" title="Phone Navy Color">Phone Navy Color</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-31-new">
+                                            <span class="price">$124.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone2.html?___SID=U" title="Phone with Variants" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Phone with Variants" />
+                            
+                                                            <img class="alt-img" src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Phone with Variants" />                                                        
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/22/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/22/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone2.html?___SID=U" title="Phone with Variants">Phone with Variants</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-22-new">
+                                            <span class="price">$750.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone8.html?___SID=U" title="Tier Pricing Product" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Tier Pricing Product" />
+                            
+                                                                                                                    
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/33/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/33/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone8.html?___SID=U" title="Tier Pricing Product">Tier Pricing Product</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-33-new">
+                                            <span class="price">$500.00</span>                                    </span>
+                        
+    
+                
+                <a href="http://127.0.0.1:8080/chinademo/index.php/phone8.html?___SID=U" class="minimal-price-link">
+                    <span class="label">As low as:</span>
+            <span class="price" id="product-minimal-price-33-new">
+                $400.00            </span>
+                </a>
+                </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone7.html?___SID=U" title="Phone Gray" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Phone Gray" />
+                            
+                                                                                                                    
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/32/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/32/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone7.html?___SID=U" title="Phone Gray">Phone Gray</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-32-new">
+                                            <span class="price">$999.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+                        <a href="http://127.0.0.1:8080/chinademo/index.php/phone5.html?___SID=U" title="Phone Blue" class="product-image">
+                        
+                            <img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Phone Blue" />
+                            
+                                                                                                                    
+                            <span class="sticker-wrapper top-left"><span class="sticker new">New</span></span>                        </a>
+                        
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/30/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/30/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                    
+                    </div> <!-- end: product-image-wrapper -->
+                        
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/phone5.html?___SID=U" title="Phone Blue">Phone Blue</a></h3>
+                    
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                    
+                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-30-new">
+                                            <span class="price">$400.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                                                
+                    	                    </div>
+                </li>
+                    </ul> <!-- end: slides -->
+    </div> <!-- end: itemslider -->
+
+</div> <!-- end: new-itemslider-wrapper -->
+<script type="text/javascript">
+//<![CDATA[
+	jQuery(function($) {
+
+		$('.new-itemslider-wrapper .itemslider').flexslider({
+			namespace: "",
+			animation: "slide",
+			easing: "easeInQuart",
+			
+							slideshow: false,
+				animationLoop: false,
+						
+						
+							animationSpeed: 400,
+						
+			pauseOnHover: true,
+			controlNav: false,
+			controlsContainer: ".new-itemslider-wrapper .nav-wrapper",
+			
+			itemWidth: 188,
+							minItems: 5,
+				maxItems: 5,
+						
+			move: 0		})
+					.data("breakpoints", [ [1280, 6], [960, 5], [768, 4], [480, 3], [320,
+2], [240,1] ] )
+				; //IMPORTANT: don't remove semicolon!
+		
+	});
+//]]>
+</script>

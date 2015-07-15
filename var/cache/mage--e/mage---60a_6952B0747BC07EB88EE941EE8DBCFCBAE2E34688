@@ -1,0 +1,546 @@
+
+<h3 class="section-title padding-right">Recommended Products</h3>
+<div class="itemslider-wrapper">
+
+	<div class="nav-wrapper gen-slider-arrows1 gen-slider-arrows1-pos-top-right" id="nav-wrapper-79a33852f0d07c49a00161c9f8faf000"></div>
+    
+    <div class="itemslider itemslider-horizontal itemslider-responsive" id="itemslider-79a33852f0d07c49a00161c9f8faf000">
+        <ul class="slides products-grid centered">
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress1.html?___SID=U" title="Sample Fashion Product" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Sample Fashion Product" />
+
+															<img class="alt-img" src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Sample Fashion Product" />							
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/1/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/1/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress1.html?___SID=U" title="Sample Fashion Product">Sample Fashion Product</a></h3>
+                                                                                    
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-1">
+                                            <span class="price">$50.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress2.html?___SID=U" title="Sample Dress with Variants" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Sample Dress with Variants" />
+
+															<img class="alt-img" src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Sample Dress with Variants" />							
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/6/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/6/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress2.html?___SID=U" title="Sample Dress with Variants">Sample Dress with Variants</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-6">
+                                            <span class="price">$45.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress3.html?___SID=U" title="Sample Customizable Dress" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Sample Customizable Dress" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/7/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/7/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress3.html?___SID=U" title="Sample Customizable Dress">Sample Customizable Dress</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-7">
+                                            <span class="price">$79.99</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress4.html?___SID=U" title="Configurable Dress Example" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Configurable Dress Example" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/8/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/8/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress4.html?___SID=U" title="Configurable Dress Example">Configurable Dress Example</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-8">
+                                            <span class="price">$100.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress5.html?___SID=U" title="Simple Dress Example" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Simple Dress Example" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/13/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/13/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress5.html?___SID=U" title="Simple Dress Example">Simple Dress Example</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-13">
+                                            <span class="price">$35.50</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress6.html?___SID=U" title="Set of Many Products" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Set of Many Products" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/14/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/14/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress6.html?___SID=U" title="Set of Many Products">Set of Many Products</a></h3>
+                                        
+
+                <div class="price-box">
+            <p class="minimal-price">
+                <span class="price-label">Starting at:</span>
+                                                    <span class="price" id="product-minimal-price-14">
+                    $35.50                </span>
+                            </p>
+        </div>
+                        <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress7.html?___SID=U" title="Dress Example" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Dress Example" />
+
+																						
+							<span class="sticker-wrapper top-right"><span class="sticker sale">Sale</span></span>						</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/15/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/15/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress7.html?___SID=U" title="Dress Example">Dress Example</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-15">
+                    $100.00                </span>
+            </p>
+
+                        <p class="special-price">
+                <span class="price-label">Now only:</span>
+                <span class="price" id="product-price-15">
+                    $95.00                </span>
+            </p>
+                    
+    
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-white-s.html?___SID=U" title="Dress Example Size-S" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Dress Example Size-S" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/16/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/16/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-white-s.html?___SID=U" title="Dress Example Size-S">Dress Example Size-S</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-16">
+                                            <span class="price">$100.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-size-m.html?___SID=U" title="Dress Example Size-M" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Dress Example Size-M" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/17/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/17/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-size-m.html?___SID=U" title="Dress Example Size-M">Dress Example Size-M</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-17">
+                                            <span class="price">$100.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-size-l.html?___SID=U" title="Dress Example Size-L" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Dress Example Size-L" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/18/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/18/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-size-l.html?___SID=U" title="Dress Example Size-L">Dress Example Size-L</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-18">
+                                            <span class="price">$100.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-size-xl.html?___SID=U" title="Dress Example Size-XL" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Dress Example Size-XL" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/19/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/19/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-size-xl.html?___SID=U" title="Dress Example Size-XL">Dress Example Size-XL</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-19">
+                                            <span class="price">$100.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                            <li class="item">
+                
+                	<div class="product-image-wrapper" style="max-width:168px;">
+                    
+						<a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-blue-size-s.html?___SID=U" title="Dress Example Blue Size S" class="product-image">
+							
+							<img src="http://127.0.0.1:8080/chinademo/media/catalog/product/cache/1/small_image/168x/040ec09b1e35df139433887a97daa66f/images/catalog/product/placeholder/small_image.jpg" alt="Dress Example Blue Size S" />
+
+																						
+													</a>
+                    
+                    	<ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://127.0.0.1:8080/chinademo/index.php/wishlist/index/add/product/20/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="icon icon-hover i-wishlist-bw"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://127.0.0.1:8080/chinademo/index.php/catalog/product_compare/add/product/20/uenc/aHR0cDovLzEyNy4wLjAuMTo4MDgwL2NoaW5hZGVtby8,/?___SID=U" 
+				title="Add to Compare">
+					<span class="icon icon-hover i-compare-bw"></span>
+			</a></li></ul>                        
+                    </div> <!-- end: product-image-wrapper -->
+
+                    <h3 class="product-name"><a href="http://127.0.0.1:8080/chinademo/index.php/dress-example-blue-size-s.html?___SID=U" title="Dress Example Blue Size S">Dress Example Blue Size S</a></h3>
+                                        
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-20">
+                                            <span class="price">$100.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                
+                        	                            
+                        
+                    	                    </div>
+
+                </li>
+                    </ul> <!-- end: slides -->
+    </div> <!-- end: itemslider -->
+
+</div> <!-- end: itemslider-wrapper -->
+<script type="text/javascript">
+//<![CDATA[
+	jQuery(function($) {
+		
+		$('#itemslider-79a33852f0d07c49a00161c9f8faf000').flexslider({
+			namespace: "",
+			animation: "slide",
+			easing: "easeInQuart",
+			
+							slideshow: false,
+				animationLoop: false,
+						
+						
+							animationSpeed: 400,
+						
+			pauseOnHover: true,
+			controlNav: false,			
+			controlsContainer: "#nav-wrapper-79a33852f0d07c49a00161c9f8faf000",
+			
+			itemWidth: 188,
+							minItems: 5,
+				maxItems: 5,
+			
+			move: 0		})
+					.data("breakpoints", [ [1280, 6], [960, 5], [768, 4], [480, 3], [320,
+2], [240,1] ] )
+				; //IMPORTANT: don't remove semicolon!
+		
+	});
+//]]>
+</script>

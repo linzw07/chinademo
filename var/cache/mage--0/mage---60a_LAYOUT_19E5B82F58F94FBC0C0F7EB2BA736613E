@@ -1,0 +1,66 @@
+<remove name="right"/>
+<remove name="left"/>
+<block type="checkout/onepage_progress" name="root" output="toHtml" template="checkout/onepage/progress.phtml">
+   <block type="checkout/onepage_payment_info" name="payment_info">
+      <action method="setInfoTemplate">
+         <method/>
+         <template/>
+      </action>
+   </block>
+</block>
+<reference name="top.links">
+   <action method="addLink" translate="label title" module="customer">
+      <label>Log In</label>
+      <url helper="customer/getLoginUrl"/>
+      <title>Log In</title>
+      <prepare/>
+      <urlParams/>
+      <position>100</position>
+   </action>
+</reference>
+<remove name="reorder"/>
+<reference name="right">
+   <block type="sales/reorder_sidebar" name="sale.reorder.sidebar" as="reorder" template="sales/reorder/sidebar.phtml"/>
+</reference>
+<reference name="top.links">
+   <action method="addLink" translate="label title">
+      <label helper="fortis/customlinks/getSignupLabel"/>
+      <url>customer/account/create</url>
+      <title>Sign Up</title>
+      <prepare>true</prepare>
+      <urlParams/>
+      <position>101</position>
+      <liParams>id=&quot;top-link-signup&quot;</liParams>
+      <aParams/>
+      <beforeText/>
+      <afterText/>
+   </action>
+   <action method="removeLinkByUrl" ifconfig="fortis/header/top_links_icons">
+      <url helper="customer/getLoginUrl"/>
+   </action>
+   <action method="addLink" ifconfig="fortis/header/top_links_icons" translate="label title">
+      <label>Log In</label>
+      <url helper="customer/getLoginUrl"/>
+      <title>Log In</title>
+      <prepare/>
+      <urlParams/>
+      <position>100</position>
+      <liParams>id=&quot;top-link-login&quot;</liParams>
+      <aParams/>
+      <beforeText>login</beforeText>
+   </action>
+   <action method="removeLinkByUrl" ifconfig="fortis/header/top_links_icons">
+      <url>customer/account/create</url>
+   </action>
+   <action method="addLink" ifconfig="fortis/header/top_links_icons" translate="label title">
+      <label>Sign Up</label>
+      <url>customer/account/create</url>
+      <title>Sign Up</title>
+      <prepare>true</prepare>
+      <urlParams/>
+      <position>101</position>
+      <liParams>id=&quot;top-link-signup&quot;</liParams>
+      <aParams/>
+      <beforeText>signup</beforeText>
+   </action>
+</reference>
